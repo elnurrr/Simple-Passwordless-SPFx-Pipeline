@@ -1,0 +1,17 @@
+{
+  "DEV": {
+    "siteUrl": "https://contoso.sharepoint.com/sites/hello-world-dev"
+  },
+
+  "TEST": {
+    "siteUrl": "https://contoso.sharepoint.com/sites/hello-world-test"
+  },
+
+  "QA": {
+    "siteUrl": "https://contoso.sharepoint.com/sites/hello-world-qa"
+  },
+
+  "PROD": {
+    "siteUrl": "https://contoso.sharepoint.com/sites/hello-world"
+  }
+}
